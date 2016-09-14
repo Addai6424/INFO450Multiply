@@ -1,5 +1,3 @@
-// Assignment 1(INFO450).cpp : Defines the entry point for the console application.
-//
 
 // Assignment 1.cpp : Defines the entry point for the console application.
 //
